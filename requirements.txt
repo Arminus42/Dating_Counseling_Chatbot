@@ -1,0 +1,24 @@
+### Target Python Version: 3.12.8 ###
+
+# Web Framework & Server
+fastapi
+uvicorn
+pydantic
+python-dotenv
+
+# AI & LangChain (LLM Integration)
+langchain-core
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-text-splitters
+
+# RAG & Vector DB (PDF, FAISS)
+faiss-cpu
+pypdf
+
+# Web Search Tool
+tavily-python
+
+# Testing & Client
+requests
