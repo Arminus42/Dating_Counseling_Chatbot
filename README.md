@@ -2,6 +2,15 @@
 
 무한도전 멤버들의 페르소나를 재현한 AI 연애 상담 챗봇입니다. RAG와 Web Search 기능을 통해 현실적이고 최신 트렌드에 맞는 조언을 제공합니다.
 
+## 개발
+- 이지민 [[zziman](https://github.com/zziman)]
+- 김상현 [[kshhy787](https://github.com/kshhy787)]
+- 김태민 [[Arminus42](https://github.com/Arminus42)]
+- 김현주 [[kim-h-joo](https://github.com/kim-h-joo)]
+- 이준혁 [[Sadturtleman](https://github.com/Sadturtleman)]
+- 조하은 [[zhwan2845](https://github.com/zhwan2845)]
+
+
 ## 주요 기능
 
 - **멀티 페르소나**: 박명수(현실 호통), 노홍철(긍정 광기), 유재석(배려 잔소리) 등 7명의 캐릭터 완벽 구현
